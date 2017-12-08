@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Nabila';
+  src: url('../fonts/nabila.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pequena';
+  src: url('../fonts/iCielPequena.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'SmoothyCursive';
+  src: url('../fonts/Smoothy-Cursive.ttf') format('truetype');
+}
