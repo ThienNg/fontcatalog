@@ -1,6 +1,6 @@
 @font-face {
-  font-family: 'Nabila';
-  src: url('../fonts/nabila.ttf') format('truetype');
+  font-family: 'Nabila'; /*--Ten font--*/
+  src: url('../fonts/nabila.ttf') format('truetype'); /*--Vi tri va loai font--*/
 }
 
 @font-face {
